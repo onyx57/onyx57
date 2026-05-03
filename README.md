@@ -1,6 +1,6 @@
 ## Henry Onyeka
 
-Senior QA Engineer. I find the bugs your users will.
+QA Automation Engineer. I find the bugs your users will.
 
 I work on an AI survey platform where a missed regression means a wrong
 analytics number in front of a customer. That bar shapes how I write tests:

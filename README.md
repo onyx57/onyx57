@@ -41,12 +41,12 @@ Most of my day-job work is private. Happy to walk through it on a call.
 ### GitHub stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=onyx57&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyx57&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="170" alt="GitHub stats" src="./profile/stats.svg" />
+  <img height="170" alt="Top languages" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=onyx57&theme=tokyonight" />
+  <img alt="GitHub streak" src="./profile/streak.svg" />
 </p>
 
 ### Reach me
